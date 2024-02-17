@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate hobbyist and love learning new te
 [![My Skills](https://skillicons.dev/icons?i=ai,ps)](https://skillicons.dev)<br>
 
 
-## 🌱 Currently Learning
+## 🌱 Currently Learning:
 
 I'm currently exploring Python and always looking for opportunities to grow and improve.
 
