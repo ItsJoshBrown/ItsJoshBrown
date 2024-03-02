@@ -9,6 +9,6 @@ Welcome to my GitHub profile! I'm a passionate hobbyist and love learning new te
 
 ## 🌱 Currently Learning:
 
-I'm currently exploring Python and always looking for opportunities to grow and improve.
+I am currently focused on expanding my proficiency in Python and always looking for opportunities to grow and improve.
 
 Thanks for stopping by! 😊
