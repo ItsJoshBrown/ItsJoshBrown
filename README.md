@@ -2,8 +2,8 @@
 
 Welcome to my GitHub profile! I'm a passionate hobbyist and love learning new technologies:
 
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,py,html,css,js)](https://skillicons.dev)<br>
-[![My Skills](https://skillicons.dev/icons?i=git,github,postman,docker,idea,aws)<br>
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,py,html,css,js)(https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=git,github,postman,docker,idea,was)<br>
 [![My Skills](https://skillicons.dev/icons?i=ai,ps)](https://skillicons.dev)<br>
 
 
