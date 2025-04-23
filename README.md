@@ -2,7 +2,6 @@
 
 Welcome to my GitHub profile! I'm a passionate hobbyist and love learning new technologies:
 
-![](https://komarev.com/ghpvc/?username=ItsJoshBrown&label=visitors&style=flat-square&color=ff5000)
 
 
 ### 🚀 Programming Languages & Frameworks  
