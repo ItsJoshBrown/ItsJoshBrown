@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate hobbyist and love learning new te
 
 
 ### 🚀 Programming Languages & Frameworks  
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=php,laravel,typescript,rust,cs,py,html,css,tailwind,js,bash&perline=15)](https://github.com/LelouchFR/skill-icons)  
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=php,laravel,typescript,rust,cs,py,html,css,tailwind,js,bash&perline=6)](https://github.com/LelouchFR/skill-icons)  
 
 ### 🗄️ Databases & Data Processing  
 [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mysql,mariadb,postgres,pandas&perline=15)](https://github.com/LelouchFR/skill-icons)  
