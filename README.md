@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate hobbyist and love learning new te
 ---
 
 ### Languages & Frameworks  
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=php,laravel,livewire,alpinejs,typescript,rust,cs,py,html,css,tailwind,js,bash&perline=15)](https://github.com/LelouchFR/skill-icons)
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=php,laravel,livewire,alpinejs,vuejs,inertia,typescript,cs,py,html,css,tailwind,js,bash&perline=8)](https://github.com/LelouchFR/skill-icons)
 
 ### Dev Tools  
 [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github,postman,docker,phpstorm,datagrip,mysql,mariadb,postgres,pandas,gitkraken,datadog,aws&perline=15)](https://github.com/LelouchFR/skill-icons)
